@@ -31,15 +31,11 @@ sorted list of weighted rules in different manners:
 
 Let us start with an example:
 
-$\Phi = \{ \forall X giraffe(X) \Rightarrow animal(X),$
+$\Phi = { \forall X giraffe(X) \Rightarrow animal(X), \forall X \forall Y  friends(X,Y) \Rightarrow friends(Y,X), \forall X \forall Y  friends(X,Y) \Rightarrow human(X) }$
 
-$ \forall X \forall Y  friends(X,Y) \Rightarrow friends(Y,X),$
+$\Gamma = { \forall X \lnot human(X) \lor \lnot animal(X) }$
 
-$ \forall X \forall Y  friends(X,Y) \Rightarrow human(X)\}$
-
-$\Gamma = \{ \forall X \lnot human(X) \lor \lnot animal(X) \}$
-
-$E = \{ giraffe(liz), friends(ann, liz)\} $
+$E = { giraffe(liz), friends(ann, liz)} $
 
 that models a world ($E$) with a single giraffe (liz) and her friend ann. We also have a theory that contains a Horn rules 
 ($\Phi$, for making predictions) and constraints ($\Gamma$, to keep integrity of the inferred facts).
