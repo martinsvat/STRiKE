@@ -1,0 +1,4 @@
+!animal(X), !human(X)
+!giraffe(X), animal(X)
+!friends(X,Y), friends(Y,X)
+!friends(X,Y), human(X)

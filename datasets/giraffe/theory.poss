@@ -1,0 +1,7 @@
+!animal(X), !human(X)
+Level 1.0
+!giraffe(X), animal(X)
+Level 0.9
+!friends(X,Y), friends(Y,X)
+Level 0.8
+!friends(X,Y), human(X)
