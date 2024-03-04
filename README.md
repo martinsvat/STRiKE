@@ -29,13 +29,18 @@ sorted list of weighted rules in different manners:
 - [*k*-entailment](https://arxiv.org/abs/1803.05768) that infers literals which are entailed by a fragment induced with up to $k$ constants (dropping out the weights)
 - [STRiKE](https://orca.cardiff.ac.uk/id/eprint/130911/1/ECAI2020_STRiKE.pdf) (STRiKE) that invokes *k*-entailment on gradually larger list of rules (and hence less probable theories)
 
-Let's start with an example:
+Let us start with an example:
 
 $\Phi = \{ \forall X giraffe(X) \Rightarrow animal(X),$
-         $ \forall X \forall Y  friends(X,Y) \Rightarrow friends(Y,X),$
-         $ \forall X \forall Y  friends(X,Y) \Rightarrow human(X)\}$
+
+$ \forall X \forall Y  friends(X,Y) \Rightarrow friends(Y,X),$
+
+$ \forall X \forall Y  friends(X,Y) \Rightarrow human(X)\}$
+
 $\Gamma = \{ \forall X \lnot human(X) \lor \lnot animal(X) \}$
+
 $E = \{ giraffe(liz), friends(ann, liz)\} $
+
 that models a world ($E$) with a single giraffe (liz) and her friend ann. We also have a theory that contains a Horn rules 
 ($\Phi$, for making predictions) and constraints ($\Gamma$, to keep integrity of the inferred facts).
 
