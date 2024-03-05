@@ -1,0 +1,8 @@
+Faculty(Person373)
+professor(Person179)
+taughtBy(Course18, Person326, Spring_0102)
+publication(Title194, Person234)
+Post_Generals(Person81)
+publication(Title186, Person99)
+student(Person411)
+Pre_Quals(Person299)

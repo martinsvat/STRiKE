@@ -1,0 +1,5 @@
+Faculty(1:person234)
+professor(1:person234)
+Post_Quals(1:person129)
+student(1:person129)
+advisedBy(1:person129, 1:person234)

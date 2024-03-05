@@ -1,0 +1,5 @@
+enzyme("Protein_YDR404c", "Enzyme_id_2007007006")
+interaction("Protein_YHR041c", "Protein_YDR154c")
+interaction("Protein_YDR154c", "Protein_YHR041c")
+interaction("Protein_YDR386w", "Protein_YPL024w")
+interaction("Protein_YPL024w", "Protein_YDR386w")

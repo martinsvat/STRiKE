@@ -1,0 +1,5 @@
+interacts_with(virus, vertebrate)
+associated_with(cell_or_Molecular_Dysfunction, clinical_Attribute)
+affects(organophosphorus_Compound, cell_or_Molecular_Dysfunction)
+performs(patient_or_Disabled_Group, governmental_or_Regulatory_Activity)
+location_of(body_Part_Organ_or_Organ_Component, body_Space_or_Junction)

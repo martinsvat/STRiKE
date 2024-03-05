@@ -1,0 +1,8 @@
+publication("Title52", "Person101")
+publication("Title185", "Person404")
+publication("Title135", "Person342")
+taughtBy("Course80", "Person180", "Spring_0001")
+student("Person404")
+student("Person180")
+student("Person342")
+student("Person101")

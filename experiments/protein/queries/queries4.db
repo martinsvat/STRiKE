@@ -1,0 +1,4 @@
+interaction(Protein_YER146w, Protein_YIL048w)
+phenotype(Protein_YAL047c, Phenotype_id_52030005005)
+function(Protein_YOR294w, Func_id_11002)
+interaction(Protein_YJR112w, Protein_YOL069w)

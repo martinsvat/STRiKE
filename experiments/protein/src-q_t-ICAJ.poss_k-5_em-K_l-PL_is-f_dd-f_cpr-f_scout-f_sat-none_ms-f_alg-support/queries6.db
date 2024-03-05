@@ -1,0 +1,10 @@
+true	-1.0	function(1:protein_YPR187w, 4:func_id_11002)
+true	-1.0	interaction(1:protein_YBL066c, 1:protein_YBL026w)
+true	-1.0	interaction(1:protein_YEL017w, 1:protein_YOL020w)
+true	-1.0	interaction(1:protein_YJL030w, 1:protein_YOR349w)
+true	-1.0	phenotype(1:protein_YML008c, 6:phenotype_id_22099)
+true	-1.0	phenotype(1:protein_YNL138w, 6:phenotype_id_52010005)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YBL026w, 1:protein_YBL066c)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YOL020w, 1:protein_YEL017w)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YOR349w, 1:protein_YJL030w)
+

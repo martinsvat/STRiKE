@@ -1,0 +1,8 @@
+interaction("Protein_YOL004w", "Protein_YDR388w")
+interaction("Protein_YER122c", "Protein_YBR164c")
+function("Protein_YMR080c", "Func_id_12")
+interaction("Protein_YBR164c", "Protein_YER122c")
+function("Protein_YDL013w", "Func_id_32")
+interaction("Protein_YMR322c", "Protein_YNL260c")
+interaction("Protein_YDR388w", "Protein_YOL004w")
+interaction("Protein_YNL260c", "Protein_YMR322c")

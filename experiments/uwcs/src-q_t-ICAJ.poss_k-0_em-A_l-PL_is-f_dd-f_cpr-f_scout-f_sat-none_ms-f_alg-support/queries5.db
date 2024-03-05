@@ -1,0 +1,6 @@
+true	-1.0	publication(3:title60, 1:person410)
+true	-1.0	publication(3:title81, 1:person82)
+true	-1.0	taughtBy(4:course13, 1:person342, 5:winter_0203)
+true	-1.0	taughtBy(4:course20, 1:person180, 5:winter_0102)
+true	-1.0	taughtBy(4:course61, 1:person107, 5:spring_0203)
+

@@ -1,0 +1,6 @@
+student(Person142)
+Faculty(Person342)
+publication(Title52, Person101)
+publication(Title141, Person104)
+taughtBy(Course148, Person351, Winter_0102)
+student(Person435)

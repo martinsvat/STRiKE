@@ -1,0 +1,7 @@
+interaction(Protein_YDR150w, Protein_YPL031c)
+interaction(Protein_YML121w, Protein_YLR295c)
+function(Protein_YDL225w, Func_id_10)
+interaction(Protein_YKL190w, Protein_YJL183w)
+interaction(Protein_YBR219c, Protein_YJR063w)
+interaction(Protein_YGL035c, Protein_YKL074c)
+interaction(Protein_YBL026w, Protein_YOR043w)

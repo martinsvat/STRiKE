@@ -1,0 +1,8 @@
+true	-1.0	Faculty(1:person342)
+true	-1.0	publication(3:title141, 1:person104)
+true	-1.0	publication(3:title52, 1:person101)
+true	-1.0	student(1:person142)
+true	-1.0	student(1:person435)
+true	-1.0	taughtBy(4:course148, 1:person351, 5:winter_0102)
+entailedByValue	1.7976931348623157E308	professor(1:person342)
+

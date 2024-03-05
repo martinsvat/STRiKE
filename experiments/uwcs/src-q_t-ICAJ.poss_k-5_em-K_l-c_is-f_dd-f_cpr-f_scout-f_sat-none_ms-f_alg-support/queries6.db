@@ -1,0 +1,7 @@
+publication(3:title52, 1:person101)
+publication(3:title141, 1:person104)
+Faculty(1:person342)
+professor(1:person342)
+student(1:person435)
+taughtBy(4:course148, 1:person351, 5:winter_0102)
+student(1:person142)

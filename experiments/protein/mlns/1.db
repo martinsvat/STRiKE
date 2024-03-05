@@ -1,0 +1,2 @@
+interaction("Protein_YLR085c", "Protein_YDR137w")
+interaction("Protein_YDR137w", "Protein_YLR085c")

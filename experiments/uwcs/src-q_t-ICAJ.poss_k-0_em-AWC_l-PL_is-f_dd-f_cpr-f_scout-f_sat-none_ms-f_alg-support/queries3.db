@@ -1,0 +1,8 @@
+Faculty(1:person235)
+professor(1:person235)
+Pre_Quals(1:person299)
+student(1:person299)
+student(1:person116)
+Pre_Quals(1:person116)
+tempAdvisedBy(1:person299, 1:person235)
+student(1:person431)

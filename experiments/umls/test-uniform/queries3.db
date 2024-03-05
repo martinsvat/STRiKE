@@ -1,0 +1,3 @@
+isa(laboratory_or_Test_Result, conceptual_Entity)
+location_of(body_Space_or_Junction, organism_Function)
+causes(substance, disease_or_Syndrome)

@@ -1,0 +1,7 @@
+taughtBy(Course153, Person342, Spring_0102)
+advisedBy(Person80, Person234)
+taughtBy(Course101, Person279, Spring_0001)
+publication(Title303, Person376)
+student(Person322)
+publication(Title187, Person82)
+publication(Title9, Person82)

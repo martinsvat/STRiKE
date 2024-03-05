@@ -1,0 +1,4 @@
+a = 10src-tu_t-ad.AB-100.5.poss_k-0_em-OS_l-PL_is-f_dd-f_cpr-f_scout-f_sat-none_ms-f_alg-support
+b = 10src-tu_t-ad.AR.ml3.poss_k-0_em-OS_l-PL_is-f_dd-f_cpr-f_scout-f_sat-none_ms-f_alg-support
+c = 10src-tu_t-src_train.db.typed.uni0.5.db_cDtrue_theory_r5_bs4_d4_mv5_ttrue_c467.fol.poss.k5.CS.ptt_k-5_em-K_l-PL_is-f_dd-f_cpr-f_scout-f_sat-none_ms-f_alg-support
+d = 10src-tu_t-src_train.db.typed.uni0.5.db_cDtrue_theory_r5_bs4_d4_mv5_ttrue_c467.fol.poss.k5.CS.ptt_k-5_em-KWC_l-PL_is-f_dd-f_cpr-f_scout-f_sat-none_ms-f_alg-support

@@ -1,0 +1,5 @@
+publication(Title81, Person82)
+taughtBy(Course13, Person342, Winter_0203)
+publication(Title60, Person410)
+taughtBy(Course61, Person107, Spring_0203)
+taughtBy(Course20, Person180, Winter_0102)

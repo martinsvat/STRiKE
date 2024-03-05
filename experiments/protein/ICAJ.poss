@@ -1,0 +1,12 @@
+interaction(1:V0, 1:V1), !interaction(1:V1, 1:V0)
+Level 10.0
+complex(1:A, 2:B), !protein_class(1:A, 7:C), !interaction(1:D, 1:A), !complex(1:D, 2:B), !protein_class(1:D, 7:C)
+Level 9.0
+phenotype(1:A, 6:B), !interaction(1:C, 1:A), !protein_class(1:A, 7:D), !phenotype(1:C, 6:B), !protein_class(1:C, 7:D)
+Level 8.0
+protein_class(1:A, 7:B), !protein_class(1:D, 7:B), !complex(1:A, 2:C), !complex(1:D, 2:C)
+Level 7.0
+enzyme(1:A, 3:B), !protein_class(1:A, 7:C), !interaction(1:A, 1:D), !enzyme(1:D, 3:B), !protein_class(1:D, 7:C)
+Level 6.0
+location(1:A, 5:B), !location(1:D, 5:B), !complex(1:A, 2:C), !complex(1:D, 2:C)
+

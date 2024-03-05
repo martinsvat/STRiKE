@@ -1,0 +1,4 @@
+ta("Course18", "Person67", "Spring_0102")
+student("Person113")
+student("Person67")
+publication("Title100", "Person113")

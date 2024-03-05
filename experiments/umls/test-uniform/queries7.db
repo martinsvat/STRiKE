@@ -1,0 +1,7 @@
+measurement_of(quantitative_Concept, organism_Function)
+result_of(anatomical_Abnormality, biologic_Function)
+causes(element_Ion_or_Isotope, cell_or_Molecular_Dysfunction)
+affects(organism_Function, plant)
+produces(cell_Function, immunologic_Factor)
+part_of(anatomical_Structure, alga)
+result_of(disease_or_Syndrome, anatomical_Abnormality)

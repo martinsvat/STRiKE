@@ -1,0 +1,5 @@
+interaction(1:protein_YPL024w, 1:protein_YDR386w)
+interaction(1:protein_YDR386w, 1:protein_YPL024w)
+interaction(1:protein_YHR041c, 1:protein_YDR154c)
+interaction(1:protein_YDR154c, 1:protein_YHR041c)
+enzyme(1:protein_YDR404c, 3:enzyme_id_2007007006)

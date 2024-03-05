@@ -1,0 +1,8 @@
+protein_class(Protein_YPL086c, Pc_id_141021)
+interaction(Protein_YDR103w, Protein_YLR362w)
+function(Protein_YGL094c, Func_id_10)
+interaction(Protein_YLR262c, Protein_YCR020c-a)
+enzyme(Protein_YHR008c, Enzyme_id_1015001001)
+phenotype(Protein_YLL043w, Phenotype_id_52015099)
+interaction(Protein_YMR199w, Protein_YDL132w)
+function(Protein_YNL330c, Func_id_34011)

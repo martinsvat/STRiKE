@@ -1,0 +1,8 @@
+complicates(vitamin, organism_Function)
+isa(acquired_Abnormality, anatomical_Abnormality)
+co-occurs_with(mental_or_Behavioral_Dysfunction, injury_or_Poisoning)
+process_of(pathologic_Function, vertebrate)
+affects(nucleic_Acid_Nucleoside_or_Nucleotide, pathologic_Function)
+isa(patient_or_Disabled_Group, conceptual_Entity)
+occurs_in(pathologic_Function, disease_or_Syndrome)
+affects(organic_Chemical, organism_Function)

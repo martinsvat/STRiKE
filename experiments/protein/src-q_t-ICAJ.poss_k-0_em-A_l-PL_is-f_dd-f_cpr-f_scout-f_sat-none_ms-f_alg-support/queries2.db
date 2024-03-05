@@ -1,0 +1,5 @@
+true	-1.0	interaction(1:protein_YBR200w, 1:protein_YER155c)
+true	-1.0	interaction(1:protein_YLR418c, 1:protein_YPL057c)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YER155c, 1:protein_YBR200w)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YPL057c, 1:protein_YLR418c)
+

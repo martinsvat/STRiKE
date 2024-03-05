@@ -1,0 +1,6 @@
+true	-1.0	enzyme(1:protein_YDR404c, 3:enzyme_id_2007007006)
+true	-1.0	interaction(1:protein_YHR041c, 1:protein_YDR154c)
+true	-1.0	interaction(1:protein_YPL024w, 1:protein_YDR386w)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YDR154c, 1:protein_YHR041c)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YDR386w, 1:protein_YPL024w)
+

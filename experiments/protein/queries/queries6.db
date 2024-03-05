@@ -1,0 +1,6 @@
+phenotype(Protein_YNL138w, Phenotype_id_52010005)
+interaction(Protein_YBL066c, Protein_YBL026w)
+phenotype(Protein_YML008c, Phenotype_id_22099)
+interaction(Protein_YJL030w, Protein_YOR349w)
+function(Protein_YPR187w, Func_id_11002)
+interaction(Protein_YEL017w, Protein_YOL020w)

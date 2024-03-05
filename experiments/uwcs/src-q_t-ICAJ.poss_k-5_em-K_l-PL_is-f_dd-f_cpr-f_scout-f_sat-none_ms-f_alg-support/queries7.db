@@ -1,0 +1,12 @@
+true	-1.0	advisedBy(1:person80, 1:person234)
+true	-1.0	publication(3:title187, 1:person82)
+true	-1.0	publication(3:title303, 1:person376)
+true	-1.0	publication(3:title9, 1:person82)
+true	-1.0	student(1:person322)
+true	-1.0	taughtBy(4:course101, 1:person279, 5:spring_0001)
+true	-1.0	taughtBy(4:course153, 1:person342, 5:spring_0102)
+entailedByValue	-4.0342292737060807E-7	Faculty(1:person234)
+entailedByValue	-4.387586899039564E-6	Post_Quals(1:person80)
+entailedByValue	1.7976931348623157E308	professor(1:person234)
+entailedByValue	1.7976931348623157E308	student(1:person80)
+

@@ -1,0 +1,9 @@
+true	-1.0	Pre_Quals(1:person116)
+true	-1.0	student(1:person431)
+true	-1.0	tempAdvisedBy(1:person299, 1:person235)
+entailedByValue	-6.476710040306189E-8	Faculty(1:person235)
+entailedByValue	-7.213615532976738E-7	Pre_Quals(1:person299)
+entailedByValue	1.7976931348623157E308	professor(1:person235)
+entailedByValue	1.7976931348623157E308	student(1:person116)
+entailedByValue	1.7976931348623157E308	student(1:person299)
+

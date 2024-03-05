@@ -1,0 +1,6 @@
+interaction(1:protein_YOL069w, 1:protein_YJR112w)
+interaction(1:protein_YIL048w, 1:protein_YER146w)
+function(1:protein_YOR294w, 4:func_id_11002)
+interaction(1:protein_YJR112w, 1:protein_YOL069w)
+interaction(1:protein_YER146w, 1:protein_YIL048w)
+phenotype(1:protein_YAL047c, 6:phenotype_id_52030005005)

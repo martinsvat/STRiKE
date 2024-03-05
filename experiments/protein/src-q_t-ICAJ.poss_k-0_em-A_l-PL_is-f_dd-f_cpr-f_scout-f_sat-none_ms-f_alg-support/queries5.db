@@ -1,0 +1,9 @@
+true	-1.0	function(1:protein_YDL013w, 4:func_id_32)
+true	-1.0	function(1:protein_YMR080c, 4:func_id_12)
+true	-1.0	interaction(1:protein_YDR388w, 1:protein_YOL004w)
+true	-1.0	interaction(1:protein_YER122c, 1:protein_YBR164c)
+true	-1.0	interaction(1:protein_YNL260c, 1:protein_YMR322c)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YBR164c, 1:protein_YER122c)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YMR322c, 1:protein_YNL260c)
+entailedByValue	1.7976931348623157E308	interaction(1:protein_YOL004w, 1:protein_YDR388w)
+

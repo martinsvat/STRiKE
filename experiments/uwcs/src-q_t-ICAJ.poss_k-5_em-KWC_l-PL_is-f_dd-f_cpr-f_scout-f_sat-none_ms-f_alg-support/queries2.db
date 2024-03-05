@@ -1,0 +1,3 @@
+student(1:person67)
+publication(3:title100, 1:person113)
+ta(4:course18, 1:person67, 5:spring_0102)

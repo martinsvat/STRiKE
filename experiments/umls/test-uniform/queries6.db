@@ -1,0 +1,6 @@
+process_of(pathologic_Function, organ_or_Tissue_Function)
+disrupts(immunologic_Factor, mental_Process)
+degree_of(cell_or_Molecular_Dysfunction, pathologic_Function)
+isa(organ_or_Tissue_Function, event)
+interacts_with(alga, fungus)
+process_of(cell_Function, fish)
